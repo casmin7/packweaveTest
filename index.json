@@ -1,0 +1,48 @@
+{
+  "files": [
+    {
+      "path": "content/mods/lambdynamiclights.json",
+      "sha1": "2d592510c2c6e30c9e1326c317801610d1307a3f"
+    },
+    {
+      "path": "content/mods/mouse-tweaks.json",
+      "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
+    },
+    {
+      "path": "content/mods/sodium.json",
+      "sha1": "f81d817e2d295ffd6b83726541a6160ae8a3aafe"
+    },
+    {
+      "path": "overrides/config/MouseTweaks.cfg",
+      "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "overrides/config/fml.toml",
+      "sha1": "5448b202d300702f6b654b522bbd2c39743702c0"
+    },
+    {
+      "path": "overrides/config/lambdynlights.toml",
+      "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2"
+    },
+    {
+      "path": "overrides/config/neoforge-client.toml",
+      "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
+    },
+    {
+      "path": "overrides/config/neoforge-common.toml",
+      "sha1": "2912b55694531e5ab90981a12f1844439d969e04"
+    },
+    {
+      "path": "overrides/config/neoforge-server.toml",
+      "sha1": "6e589499975366719134967e8ad049ee10d8caac"
+    },
+    {
+      "path": "overrides/icon.png",
+      "sha1": "18a39f918877bcd6eb0b285d0b743b6a8c03c842"
+    },
+    {
+      "path": "overrides/options.txt",
+      "sha1": "b134d3a16eaa4f69345ac952c59414d504a2e184"
+    }
+  ]
+}
