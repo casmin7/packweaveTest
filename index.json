@@ -1,28 +1,104 @@
 {
   "files": [
     {
+      "path": "content/mods/appleskin.json",
+      "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
+    },
+    {
+      "path": "content/mods/cloth-config.json",
+      "sha1": "a1874470ddb3593e3a30f45dc4bb74e1ead1e514"
+    },
+    {
+      "path": "content/mods/cubes-without-borders.json",
+      "sha1": "e28dd766d2b554a0cd4e8b84086a5b6851876434"
+    },
+    {
+      "path": "content/mods/entityculling.json",
+      "sha1": "ad43232487c3442c2992f7fe5cbdcebe8324b6b4"
+    },
+    {
+      "path": "content/mods/ferrite-core.json",
+      "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
+    },
+    {
+      "path": "content/mods/immediatelyfast.json",
+      "sha1": "01d9a80aa75ac87ba4e464a8d0764ec37f2e6f13"
+    },
+    {
       "path": "content/mods/lambdynamiclights.json",
       "sha1": "2d592510c2c6e30c9e1326c317801610d1307a3f"
+    },
+    {
+      "path": "content/mods/lithium.json",
+      "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
+    },
+    {
+      "path": "content/mods/modernfix.json",
+      "sha1": "80011e74d2ffa9bd94b487c555d5445416e1f5af"
+    },
+    {
+      "path": "content/mods/moreculling.json",
+      "sha1": "076bc8edeb8013cded5229ab6516af23ae7f64f6"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
       "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
     },
     {
+      "path": "content/mods/reeses-sodium-options.json",
+      "sha1": "9ceb36f39a9d96452aaa65580cab03ffc470a5a8"
+    },
+    {
       "path": "content/mods/sodium.json",
-      "sha1": "f81d817e2d295ffd6b83726541a6160ae8a3aafe"
+      "sha1": "2e3448eafd3128bb8ce80cf15548de23702b5296"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
       "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
     },
     {
+      "path": "overrides/config/appleskin-client.toml",
+      "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
+    },
+    {
+      "path": "overrides/config/cubes_without_borders.json",
+      "sha1": "f98c95a5ebb920be656b5a777d07b22a896444b5"
+    },
+    {
+      "path": "overrides/config/entityculling.json",
+      "sha1": "06318afd00ffe39369a814a689b78d9de15c9bea"
+    },
+    {
+      "path": "overrides/config/ferritecore-mixin.toml",
+      "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
+    },
+    {
       "path": "overrides/config/fml.toml",
       "sha1": "5448b202d300702f6b654b522bbd2c39743702c0"
     },
     {
+      "path": "overrides/config/immediatelyfast.json",
+      "sha1": "af6efc159a1aa1420a1e48c115689af37388df52"
+    },
+    {
       "path": "overrides/config/lambdynlights.toml",
       "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2"
+    },
+    {
+      "path": "overrides/config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
+    },
+    {
+      "path": "overrides/config/modernfix-common.toml",
+      "sha1": "67d29a1db4c6d7d97b4912e5ef3aae34347d3e38"
+    },
+    {
+      "path": "overrides/config/modernfix-mixins.properties",
+      "sha1": "27e5ecbe4b29d8b9e631d9662cf381b9a5e62630"
+    },
+    {
+      "path": "overrides/config/moreculling.toml",
+      "sha1": "4342b1ef33ac4b8f67b6d9d7be30fd7a9b0d3a8e"
     },
     {
       "path": "overrides/config/neoforge-client.toml",
@@ -35,6 +111,22 @@
     {
       "path": "overrides/config/neoforge-server.toml",
       "sha1": "6e589499975366719134967e8ad049ee10d8caac"
+    },
+    {
+      "path": "overrides/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+    },
+    {
+      "path": "overrides/config/sodium-options.json",
+      "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
+    },
+    {
+      "path": "overrides/config/transition.json",
+      "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5"
+    },
+    {
+      "path": "overrides/config/trender.json",
+      "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
     },
     {
       "path": "overrides/icon.png",
