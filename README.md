@@ -1,11 +1,12 @@
 # My Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 13 mods
+**Minecraft 1.21.1 · neoforge 21.1.248**, 14 mods
 
 ## Contents
 
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.118+1.21.1`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `3.0.0+1.21`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`

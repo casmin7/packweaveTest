@@ -5,6 +5,10 @@
       "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
     },
     {
+      "path": "content/mods/c2me-neoforge.json",
+      "sha1": "2b88da3955594691a01b55c0db877b70486142c0"
+    },
+    {
       "path": "content/mods/cloth-config.json",
       "sha1": "a1874470ddb3593e3a30f45dc4bb74e1ead1e514"
     },
@@ -61,6 +65,10 @@
       "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
     },
     {
+      "path": "overrides/config/c2me.toml",
+      "sha1": "38499782f9b258859e2f09e0a7790f2742c81dd5"
+    },
+    {
       "path": "overrides/config/cubes_without_borders.json",
       "sha1": "f98c95a5ebb920be656b5a777d07b22a896444b5"
     },
@@ -94,7 +102,7 @@
     },
     {
       "path": "overrides/config/modernfix-mixins.properties",
-      "sha1": "27e5ecbe4b29d8b9e631d9662cf381b9a5e62630"
+      "sha1": "c082c748f05ef7ef365b94728c50df4e50a2ddb9"
     },
     {
       "path": "overrides/config/moreculling.toml",
@@ -131,10 +139,6 @@
     {
       "path": "overrides/icon.png",
       "sha1": "18a39f918877bcd6eb0b285d0b743b6a8c03c842"
-    },
-    {
-      "path": "overrides/options.txt",
-      "sha1": "b134d3a16eaa4f69345ac952c59414d504a2e184"
     }
   ]
 }
