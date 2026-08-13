@@ -1,6 +1,6 @@
 # My Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 15 mods (1 dependency)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 16 mods (1 dependency)
 
 ## Contents
 
@@ -8,6 +8,7 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.118+1.21.1`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `3.0.0+1.21`
+- [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.4`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.11+1.21.1-neoforge`

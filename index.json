@@ -21,6 +21,10 @@
       "sha1": "e28dd766d2b554a0cd4e8b84086a5b6851876434"
     },
     {
+      "path": "content/mods/dynamic-fps.json",
+      "sha1": "0cb4b3b3268f643b02809d189f288d75386f3c2f"
+    },
+    {
       "path": "content/mods/entityculling.json",
       "sha1": "ad43232487c3442c2992f7fe5cbdcebe8324b6b4"
     },
