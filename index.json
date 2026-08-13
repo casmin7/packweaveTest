@@ -13,6 +13,10 @@
       "sha1": "a1874470ddb3593e3a30f45dc4bb74e1ead1e514"
     },
     {
+      "path": "content/mods/coroutil.json",
+      "sha1": "d51bcebe04afbcc82bcc4d247b227c39d21f70fb"
+    },
+    {
       "path": "content/mods/cubes-without-borders.json",
       "sha1": "e28dd766d2b554a0cd4e8b84086a5b6851876434"
     },
@@ -55,6 +59,14 @@
     {
       "path": "content/mods/sodium.json",
       "sha1": "2e3448eafd3128bb8ce80cf15548de23702b5296"
+    },
+    {
+      "path": "content/mods/what-are-they-up-to.json",
+      "sha1": "5fe1c1560d32efcf5ee9d3c0a21a600aa6f7261a"
+    },
+    {
+      "path": "overrides/config/CoroUtil/General.toml",
+      "sha1": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
@@ -135,6 +147,22 @@
     {
       "path": "overrides/config/trender.json",
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
+    },
+    {
+      "path": "overrides/config/watut-client.toml",
+      "sha1": "af24b03bb2482372ddea6d81878d8975098dd25d"
+    },
+    {
+      "path": "overrides/config/watut-common.toml",
+      "sha1": "55781f5d0dc1d7975db99c09c5353ae1959594cb"
+    },
+    {
+      "path": "overrides/config/watut-item-arm-adjustments.json",
+      "sha1": "2cfa88c57c35df26af1391acb7f2f8eb8abd53ab"
+    },
+    {
+      "path": "overrides/config/watut-server.toml",
+      "sha1": "f4bbad38e8c2253eab33bdd38a0a135c022b1786"
     },
     {
       "path": "overrides/icon.png",
