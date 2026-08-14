@@ -1,0 +1,23 @@
+{
+  "name": "Roxy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Ap78bKTp",
+      "slug": "roxy",
+      "versionId": "kYfZyUZS",
+      "versionNumber": "0.1.6-neoforge+mc1.21.1",
+      "filename": "roxy-1.21.1-NeoForge-0.1.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ap78bKTp/versions/kYfZyUZS/roxy-1.21.1-NeoForge-0.1.6.jar",
+      "sha1": "54f74ef4c2fae37000857a6801ccf5184ce4a4d0",
+      "sha512": "fc9091c9c5fa535caa0ee0f89cb00c6be3589077ae96b043a317f943bcf8d52cf045869c24b0e3b05eb761aeeee807eebe432c8622be4ecb4d5fcd76993e8670",
+      "fileSize": 2269878
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -9,6 +9,10 @@
       "sha1": "2b88da3955594691a01b55c0db877b70486142c0"
     },
     {
+      "path": "content/mods/chunksmith.json",
+      "sha1": "c219872cd7f2bbdd60216da5907193fc30a7f2fc"
+    },
+    {
       "path": "content/mods/cloth-config.json",
       "sha1": "a1874470ddb3593e3a30f45dc4bb74e1ead1e514"
     },
@@ -31,6 +35,10 @@
     {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
+    },
+    {
+      "path": "content/mods/forgified-fabric-api.json",
+      "sha1": "0ed68bea625b5eb72f41d8836be6364bd5cfcaa7"
     },
     {
       "path": "content/mods/immediatelyfast.json",
@@ -61,12 +69,24 @@
       "sha1": "9ceb36f39a9d96452aaa65580cab03ffc470a5a8"
     },
     {
+      "path": "content/mods/roxy.json",
+      "sha1": "d08024b66fe83bf3087c91088615281eedd55bbb"
+    },
+    {
       "path": "content/mods/sodium.json",
-      "sha1": "2e3448eafd3128bb8ce80cf15548de23702b5296"
+      "sha1": "66131e4ca41e66b810b4d18350825edefdf83633"
+    },
+    {
+      "path": "content/mods/voxy.json",
+      "sha1": "26de1813fd3089fb7f64deb93bcaf0e2c595fbfd"
     },
     {
       "path": "content/mods/what-are-they-up-to.json",
       "sha1": "5fe1c1560d32efcf5ee9d3c0a21a600aa6f7261a"
+    },
+    {
+      "path": "content/mods/zfastnoise.json",
+      "sha1": "1cbf01e30757dac57509fa37c4ef62114d7cf152"
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",
@@ -85,12 +105,28 @@
       "sha1": "38499782f9b258859e2f09e0a7790f2742c81dd5"
     },
     {
+      "path": "overrides/config/chunksmith-lod.properties",
+      "sha1": "a9b9cf24848ff773812652be66870510ec74cc32"
+    },
+    {
+      "path": "overrides/config/chunksmith/config.json",
+      "sha1": "d773d5f1293d74240af74b431ea0b6ed58de2794"
+    },
+    {
       "path": "overrides/config/cubes_without_borders.json",
       "sha1": "f98c95a5ebb920be656b5a777d07b22a896444b5"
     },
     {
+      "path": "overrides/config/dynamic_fps.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
       "path": "overrides/config/entityculling.json",
       "sha1": "06318afd00ffe39369a814a689b78d9de15c9bea"
+    },
+    {
+      "path": "overrides/config/fabric/indigo-renderer.properties",
+      "sha1": "b2c216a179f8d8911a7c24280cb5b1d734d4a005"
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
@@ -106,7 +142,7 @@
     },
     {
       "path": "overrides/config/lambdynlights.toml",
-      "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2"
+      "sha1": "2534df6858bab2383ba4f7eb289f9e0ba1ad6779"
     },
     {
       "path": "overrides/config/lithium.properties",
@@ -153,6 +189,10 @@
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
     },
     {
+      "path": "overrides/config/voxy-config.json",
+      "sha1": "9f26086e3d9b1c9791aeab2d3ed7e309863d1128"
+    },
+    {
       "path": "overrides/config/watut-client.toml",
       "sha1": "af24b03bb2482372ddea6d81878d8975098dd25d"
     },
@@ -167,6 +207,14 @@
     {
       "path": "overrides/config/watut-server.toml",
       "sha1": "f4bbad38e8c2253eab33bdd38a0a135c022b1786"
+    },
+    {
+      "path": "overrides/config/zfastnoise.mixin.properties",
+      "sha1": "16254819c767c96d9a9d9e4938d9dc6d8b1d5aa4"
+    },
+    {
+      "path": "overrides/data/fabricDefaultResourcePacks.dat",
+      "sha1": "a3c4a4317e4e7c682d2eff72d0527ee1822167a0"
     },
     {
       "path": "overrides/icon.png",

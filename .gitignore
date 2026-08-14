@@ -57,3 +57,5 @@ cherishedworlds-favorites.dat
 config/sodium-fingerprint.json
 cache/*
 options.txt
+chunksmith/*
+config/chunksmith/tasks/*
