@@ -22,7 +22,7 @@
     },
     {
       "path": "content/mods/coroutil.json",
-      "sha1": "d51bcebe04afbcc82bcc4d247b227c39d21f70fb"
+      "sha1": "aa30413ee187e317a037565ed00a52f88fa3fd95"
     },
     {
       "path": "content/mods/cubes-without-borders.json",
@@ -78,7 +78,7 @@
     },
     {
       "path": "content/mods/scalablelux.json",
-      "sha1": "9a76d4378e9ad258e6f727c673c3998c8f772ba4"
+      "sha1": "8aa537640bdbc4d3c604e84fe36ee9d2989f9f70"
     },
     {
       "path": "content/mods/sodium.json",

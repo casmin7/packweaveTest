@@ -1,6 +1,6 @@
 # My Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 22 mods (2 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 24 mods
 
 ## Contents
 
@@ -9,6 +9,7 @@
 - [Chunksmith](https://modrinth.com/project/chunksmith) `3.4.0+1.21.1-neoforge`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.120+1.21.1`
+- [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `3.0.0+1.21`
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.4`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
@@ -23,6 +24,7 @@
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.3+neoforge`
 - [Roxy](https://modrinth.com/project/roxy) `0.1.8-neoforge+mc1.21.1`
+- [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.6+1.21.1`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-beta.2-neoforge`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`

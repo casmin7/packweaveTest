@@ -1,5 +1,8 @@
 # Changelog
 
+### Updated
+- [ScalableLux](https://modrinth.com/project/scalablelux) 0.1.0.1+neoforge.1cb1e91 → 0.3.0-alpha.0.6+1.21.1
+
 ### Added
 - [Chunksmith](https://modrinth.com/project/chunksmith) 3.4.0+1.21.1-neoforge
 - [Fast Noise](https://modrinth.com/project/zfastnoise) 1.0.13+1.21.1+neoforge
