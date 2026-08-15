@@ -6,7 +6,11 @@
     },
     {
       "path": "content/mods/c2me-neoforge.json",
-      "sha1": "2b88da3955594691a01b55c0db877b70486142c0"
+      "sha1": "a91ca43160ba916076bcbcf60c11ec3041441932"
+    },
+    {
+      "path": "content/mods/c2me-ocl.json",
+      "sha1": "a3c6551f0f0be8a374f6745f9b4f88821d3e471d"
     },
     {
       "path": "content/mods/chunksmith.json",
@@ -38,7 +42,7 @@
     },
     {
       "path": "content/mods/forgified-fabric-api.json",
-      "sha1": "0ed68bea625b5eb72f41d8836be6364bd5cfcaa7"
+      "sha1": "6d933923102a0d9b357099acc577e6de18a2cc2d"
     },
     {
       "path": "content/mods/immediatelyfast.json",
@@ -70,7 +74,11 @@
     },
     {
       "path": "content/mods/roxy.json",
-      "sha1": "d08024b66fe83bf3087c91088615281eedd55bbb"
+      "sha1": "8a331ba3fd1abeec4a67a18e1e4ee225aef97b1c"
+    },
+    {
+      "path": "content/mods/scalablelux.json",
+      "sha1": "9a76d4378e9ad258e6f727c673c3998c8f772ba4"
     },
     {
       "path": "content/mods/sodium.json",

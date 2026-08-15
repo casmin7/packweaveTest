@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Ap78bKTp",
       "slug": "roxy",
-      "versionId": "kYfZyUZS",
-      "versionNumber": "0.1.6-neoforge+mc1.21.1",
-      "filename": "roxy-1.21.1-NeoForge-0.1.6.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Ap78bKTp/versions/kYfZyUZS/roxy-1.21.1-NeoForge-0.1.6.jar",
-      "sha1": "54f74ef4c2fae37000857a6801ccf5184ce4a4d0",
-      "sha512": "fc9091c9c5fa535caa0ee0f89cb00c6be3589077ae96b043a317f943bcf8d52cf045869c24b0e3b05eb761aeeee807eebe432c8622be4ecb4d5fcd76993e8670",
-      "fileSize": 2269878
+      "versionId": "FmR78NgQ",
+      "versionNumber": "0.1.8-neoforge+mc1.21.1",
+      "filename": "roxy-1.21.1-NeoForge-0.1.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ap78bKTp/versions/FmR78NgQ/roxy-1.21.1-NeoForge-0.1.8.jar",
+      "sha1": "ebf9271967b2ae1f25b683a90e50257028be27da",
+      "sha512": "469bbc33b86e875086ce8cdbd02b0f01445f0694ee01217ad6785fcab7f0df8d92ad9db21614f9a7fb94b84fb222ee97dddece8a869c2a05c0eaaf8a9e96bfac",
+      "fileSize": 2276832
     }
   },
   "dependents": [],
