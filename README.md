@@ -1,11 +1,10 @@
 # My Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 24 mods
+**Minecraft 1.21.1 · neoforge 21.1.248**, 22 mods
 
 ## Contents
 
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
-- [C2ME OpenCL Acceleration Module](https://modrinth.com/project/c2me-ocl) `0.4.0-alpha.0.120+1.21.1`
 - [Chunksmith](https://modrinth.com/project/chunksmith) `3.4.0+1.21.1-neoforge`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.120+1.21.1`
@@ -24,7 +23,6 @@
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.3+neoforge`
 - [Roxy](https://modrinth.com/project/roxy) `0.1.8-neoforge+mc1.21.1`
-- [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.6+1.21.1`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-beta.2-neoforge`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`

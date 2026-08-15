@@ -1,5 +1,15 @@
 # Changelog
 
+### Removed
+- C2ME OpenCL Acceleration Module 0.4.0-alpha.0.120+1.21.1
+- ScalableLux 0.3.0-alpha.0.6+1.21.1
+
+### Changed
+- modified config/c2me.toml
+- modified config/fabric/indigo-renderer.properties
+- modified config/zfastnoise.mixin.properties
+- modified icon.png
+
 ### Updated
 - [ScalableLux](https://modrinth.com/project/scalablelux) 0.1.0.1+neoforge.1cb1e91 → 0.3.0-alpha.0.6+1.21.1
 

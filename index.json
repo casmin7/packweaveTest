@@ -6,11 +6,7 @@
     },
     {
       "path": "content/mods/c2me-neoforge.json",
-      "sha1": "a91ca43160ba916076bcbcf60c11ec3041441932"
-    },
-    {
-      "path": "content/mods/c2me-ocl.json",
-      "sha1": "a3c6551f0f0be8a374f6745f9b4f88821d3e471d"
+      "sha1": "31bf0af7fd73072f82825eb36d526c139e331460"
     },
     {
       "path": "content/mods/chunksmith.json",
@@ -77,10 +73,6 @@
       "sha1": "8a331ba3fd1abeec4a67a18e1e4ee225aef97b1c"
     },
     {
-      "path": "content/mods/scalablelux.json",
-      "sha1": "8aa537640bdbc4d3c604e84fe36ee9d2989f9f70"
-    },
-    {
       "path": "content/mods/sodium.json",
       "sha1": "66131e4ca41e66b810b4d18350825edefdf83633"
     },
@@ -110,7 +102,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "38499782f9b258859e2f09e0a7790f2742c81dd5"
+      "sha1": "b3c93c9b07061705c1859a8108a75d4761928ae0"
     },
     {
       "path": "overrides/config/chunksmith-lod.properties",
@@ -134,7 +126,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "b2c216a179f8d8911a7c24280cb5b1d734d4a005"
+      "sha1": "76fecb060c2cafdd91380df65e1b0e058d37b661"
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
@@ -218,7 +210,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "16254819c767c96d9a9d9e4938d9dc6d8b1d5aa4"
+      "sha1": "1eae1c82ca108668efd17505502767bcaa613703"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
@@ -226,7 +218,7 @@
     },
     {
       "path": "overrides/icon.png",
-      "sha1": "9197e216411dda553ad02e4cc6ac1afc454860ad"
+      "sha1": "2b4860e1e8d64ea9ed187215b7401edfde46ba8c"
     }
   ]
 }
