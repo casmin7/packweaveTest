@@ -1,5 +1,14 @@
 # Changelog
 
+### Updated
+- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) 1.6.11+1.21.1-neoforge → 1.6.12+1.21.1-neoforge
+
+### Updated
+- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) 1.6.11+1.21.1-neoforge → 1.6.12+1.21.1-neoforge
+
+### Updated
+- ImmediatelyFast 1.6.11+1.21.1-neoforge → 1.6.12+1.21.1-neoforge
+
 ### Removed
 - C2ME OpenCL Acceleration Module 0.4.0-alpha.0.120+1.21.1
 - ScalableLux 0.3.0-alpha.0.6+1.21.1
